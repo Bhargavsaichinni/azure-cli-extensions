@@ -79021,49 +79021,6 @@
                     "version": "1.0.0b4"
                 },
                 "sha256Digest": "89a93e0ede540fe62954ed664336adcc86326c4c9521969169b2f425b82bd7b3"
-            },
-            {
-                "downloadUrl": "https://azcliprod.blob.core.windows.net/cli-extensions/neon-1.0.0b5-py3-none-any.whl",
-                "filename": "neon-1.0.0b5-py3-none-any.whl",
-                "metadata": {
-                    "azext.isPreview": true,
-                    "azext.minCliCoreVersion": "2.67.0",
-                    "classifiers": [
-                        "Development Status :: 4 - Beta",
-                        "Intended Audience :: Developers",
-                        "Intended Audience :: System Administrators",
-                        "Programming Language :: Python",
-                        "Programming Language :: Python :: 3",
-                        "Programming Language :: Python :: 3.7",
-                        "Programming Language :: Python :: 3.8",
-                        "Programming Language :: Python :: 3.9",
-                        "License :: OSI Approved :: MIT License"
-                    ],
-                    "extensions": {
-                        "python.details": {
-                            "contacts": [
-                                {
-                                    "email": "azpycli@microsoft.com",
-                                    "name": "Microsoft Corporation",
-                                    "role": "author"
-                                }
-                            ],
-                            "document_names": {
-                                "description": "DESCRIPTION.rst"
-                            },
-                            "project_urls": {
-                                "Home": "https://github.com/Azure/azure-cli-extensions/tree/main/src/neon"
-                            }
-                        }
-                    },
-                    "generator": "bdist_wheel (0.30.0)",
-                    "license": "MIT",
-                    "metadata_version": "2.0",
-                    "name": "neon",
-                    "summary": "Microsoft Azure Command-Line Tools Neon Extension.",
-                    "version": "1.0.0b5"
-                },
-                "sha256Digest": "5214e6b3e31b3306fe592805b93e1ec607b98ca60f8eab8e31055c4418a93d3f"
             }
         ],
         "netappfiles-preview": [
